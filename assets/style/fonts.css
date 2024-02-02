@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Elaine";
+    src: url("../fonts/ELANE/ELAINEGLOBAL\ COND.OTF");
+}
+@font-face {
+    font-family: "AvertaR";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Regular.otf");
+}
+@font-face {
+    font-family: "AvertaB";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Bold.otf");
+}
+@font-face {
+    font-family: "AvertaL";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Light.otf");
+}
+@font-face {
+    font-family: "AvertaBL";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Black.otf");
+}
